@@ -24,4 +24,4 @@ yarn-error.log*
 
 /backend/venv
 /backend/woof_dog_care/db.sqlite3
-
+/frontend/.idea
