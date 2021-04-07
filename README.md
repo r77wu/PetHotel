@@ -9,12 +9,27 @@ Pet hotel and grooming is an online booking application for a local pet store to
 
 
 ## General-info
+<p align="center">
+<img src='images/HomePage.PNG' width='600' height='300' />
+<p>
 1. Checking available hotel rooms or grooming service at selected time period.
-
+<p align="center">
+<img src='images/HotelReservation.PNG' width='600' height='200' />
+<p>
+<p align="center">
+<img src='images/GroomingReservation.PNG' width='600' height='200' />
+<p>
 2. Making reservations for pet hotel or grooming service.
-
+<p align="center">
+<img src='images/ReservationSummary.PNG' width='300' height='500' />
+<p>
 3. Managing reservations, pets, and profile.
-
+<p align="center">
+<img src='images/AccountOrders.PNG' width='650' height='400' />
+<p>
+<p align="center">
+<img src='images/AccountPets.PNG' width='650' height='400' />
+<p>
 4. Adopting dogs.
 
 
